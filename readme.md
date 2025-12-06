@@ -11,7 +11,7 @@ Contiene:
 - Servicios de inferencia
 - Notebooks de experimentación
 
-## 9. Arquitectura del proyecto
+## Arquitectura del proyecto
 
 El proyecto levanta un stack de MLOps simple basado en **Docker Compose** con:
 
