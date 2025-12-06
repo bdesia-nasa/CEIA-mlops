@@ -82,8 +82,7 @@ docker compose  up airflow-init airflow-scheduler airflow-cli minio-bucket-init 
 
 - **Git**
 - **Docker Desktop** (con al menos **4 GB de RAM** asignados al engine)
-- **VS Code** (opcional pero recomendado)
-- Sistema probado en **Windows 10/11 + WSL2** / Linux
+- **VS Code** 
 
 ---
 
